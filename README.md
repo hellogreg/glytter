@@ -8,5 +8,5 @@ The page's default typeface, [Firava](https://firava.netlify.app/), is a variabl
 
 This project was created by me, Greg Gibson ([hellogreg.org](http://hellogreg.org)), because I wanted a simple tool for viewing and copying character sets for fonts I'm producing or using.
 
-Special thanks to [Adam Twardoch](http://www.twardoch.com/) and[Christian Genco](https://christian.gen.co/) for their tips on getting fontkit to work in the browser:
+Special thanks to [Adam Twardoch](http://www.twardoch.com/) and [Christian Genco](https://christian.gen.co/) for their tips on getting fontkit to work in the browser:
 [https://github.com/foliojs/fontkit/issues/41](https://github.com/foliojs/fontkit/issues/41).
