@@ -1,12 +1,12 @@
     @font-face {
-      src: url('fonts/Firava.woff2') format('woff2-variations');
+      src: url('./fonts/Firava.woff2') format('woff2-variations');
       font-display: swap;
       font-family: 'Firava';
       font-weight: 100 900;
     }
 
     @font-face {
-      src: url('fonts/FiravaItalic.woff2') format('woff2-variations');
+      src: url('./fonts/FiravaItalic.woff2') format('woff2-variations');
       font-display: swap;
       font-family: 'Firava';
       font-style: italic;
@@ -14,7 +14,7 @@
     }
 
     @font-face {
-      src: url('fonts/AdobeBlank.ttf') format('truetype');
+      src: url('./fonts/AdobeBlank.ttf') format('truetype');
       font-display: swap;
       font-family: 'AdobeBlank';
     }
