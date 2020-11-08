@@ -69,7 +69,7 @@
   }
 
   function loadDefaultFont() {
-    const fontPath = "/fonts/Firava.woff2";
+    const fontPath = "fonts/Firava.woff2";
     fetch(fontPath).then((response) => response.arrayBuffer()).then((arrayBuffer) => {
       const font = fontkit.create(new Buffer(arrayBuffer));
       let outputName = font.familyName;
