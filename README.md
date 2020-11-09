@@ -4,7 +4,7 @@
 
 This browser-based tool lets you view all the characters for a font on your local machine. The characters are displayed in plain HTML text, so you can easily copy and paste them, if you want.
 
-This project was created by me, Greg Finn Gibson ([hellogreg.org](http://hellogreg.org)), because I wanted a simple tool for viewing and copying character sets for fonts I'm producing or using. I used it to generate [my character map specimen for Firava](https://firava.netlify.app/), my variable font adaption of Mozilla's Fira Sans typeface.
+This project was created by me, Greg Finn Gibson ([hellogreg.org](http://hellogreg.org)), because I wanted a simple tool for viewing and copying character sets for fonts I'm producing or using. I used it to generate [a character map sample for Firava](https://firava.netlify.app/), my variable font adaptation of Mozilla's Fira Sans typeface.
 
 ## Notes
 * Accepts most web font formats: .ttf, .otf, .woff, and .woff2.
