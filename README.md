@@ -1,4 +1,4 @@
-# glytter
+# glytter: the font glyph getter
 
 This browser tool lets you view all characters for most font files (.ttf, .otf, .woff, or .woff2) on your local machine. Fonts are kept on your machine and not uploaded anywhere.
 
