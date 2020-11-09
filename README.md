@@ -2,7 +2,7 @@
 
 **[Follow this link to use Glytter!](https://hellogreg.github.io/glytter/)**
 
-This browser-based tool lets you view all the characters for a font on your local machine. The characters are displayed in Unicode order in HTML text, so you can easily copy and paste them, if you want.
+This browser-based tool lets you view all the characters for a font on your local machine. The characters are displayed in plain HTML text, so you can easily copy and paste them, if you want.
 
 This project was created by me, Greg Finn Gibson ([hellogreg.org](http://hellogreg.org)), because I wanted a simple tool for viewing and copying character sets for fonts I'm producing or using. I used it to generate [my character map specimen for Firava](https://firava.netlify.app/), a variable font version of Mozilla's Fira Sans typeface.
 
